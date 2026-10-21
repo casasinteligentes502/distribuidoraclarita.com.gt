@@ -1,0 +1,11 @@
+DISTRIBUIDORA CLARITA — PÁGINA WEB
+
+1) Para ver la página sin publicarla: abrir index.html con Chrome/Edge.
+2) Para el panel administrativo de demostración: abrir admin.html.
+3) Para publicarla: subir index.html y todas las carpetas al repositorio de GitHub Pages o hosting compatible.
+4) Para que CLARITA cambie precios, existencias e imágenes en una página pública se debe configurar Supabase siguiendo docs/GUIA-INSTALACION.md.
+5) Los precios y existencias aún NO fueron proporcionados; están pendientes de confirmación.
+6) El carrito y el mensaje de pedido de WhatsApp están programados con el número +502 5830-4062.
+7) La página aún NO está publicada en un dominio y NO se han creado cuentas ni contraseñas de producción.
+
+Este ZIP contiene archivos HTML, CSS, JavaScript, imágenes y el SQL de la base de datos.
